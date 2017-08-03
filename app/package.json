@@ -1,0 +1,9 @@
+{
+  "name": "node-js-hello-world",
+  "version": "0.2.0",
+  "description": "Sample express js application",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*"
+  }
+}
